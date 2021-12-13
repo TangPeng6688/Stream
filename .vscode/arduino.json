@@ -1,0 +1,7 @@
+{
+    "configuration": "PartitionScheme=default,UploadSpeed=1500000,DebugLevel=none",
+    "board": "m5stack:esp32:m5stick-c",
+    "output": "D:\\project\\output",
+    "sketch": "..\\test\\test.ino",
+    "port": "COM4"
+}
